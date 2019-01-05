@@ -43,8 +43,11 @@ __2. nueve.prepare__
 
 
 ![](/doc/images/nueve.prepare.0.png)
+-----------------------------------------------------------------------------------------
 ![](/doc/images/nueve.prepare.1.png)
+------------------------------------------------------------------------------------------
 ![](/doc/images/nueve.prepare.2.png)
+------------------------------------------------------------------------------------------
 
         
 __3. nueve.creat__
@@ -52,8 +55,7 @@ __3. nueve.creat__
         nueve.creat()
         // will generate .html and .css in the dir(named config.name)
 
-![](/Images/prepare.0.PNG)
-![](/Images/prepare.1.PNG)
+![](/doc/images/nueve.creat.0.png)
 
 
 __4. config firefox__
