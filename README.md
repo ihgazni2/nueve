@@ -74,6 +74,10 @@ __5. open generated .html using firfox__
 
 __6. begin test__
 
+![](/doc/images/nueve.test.1.gif)
+  
+        //performance
+![](/doc/images/nueve.test.2.png)
         
 -------------------------------------------------------
 
