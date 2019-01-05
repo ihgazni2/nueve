@@ -11,5 +11,20 @@
   "dependencies": {
     "ncp": ">=2.0.0",
     "elist": ">=1.0.5"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/ihgazni2/nueve/issues"
+  },
+  "homepage": "https://github.com/ihgazni2/nueve#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihgazni2/nueve.git"
+  },
+  "keywords": [
+    "test",
+    "shader",
+    "webgl",
+    "video",
+    "filter"
+  ]
 }
