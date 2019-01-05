@@ -1,0 +1,15 @@
+{
+  "name": "nueve",
+  "version": "1.2.0",
+  "description": "",
+  "main": "nueve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ihgazni2010@hotmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "ncp": ">=2.0.0",
+    "elist": ">=1.0.5"
+  }
+}
