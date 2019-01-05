@@ -42,8 +42,10 @@ __2. nueve.prepare__
         
 
 
-![](/Images/prepare.0.PNG)
-![](/Images/prepare.1.PNG)         
+![](/doc/images/nueve.config.0.png)
+![](/doc/images/nueve.config.1.png)
+![](/doc/images/nueve.config.2.png)
+
         
 __3. nueve.creat__
 
