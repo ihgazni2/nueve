@@ -42,9 +42,9 @@ __2. nueve.prepare__
         
 
 
-![](/doc/images/nueve.config.0.png)
-![](/doc/images/nueve.config.1.png)
-![](/doc/images/nueve.config.2.png)
+![](/doc/images/nueve.prepare.0.png)
+![](/doc/images/nueve.prepare.1.png)
+![](/doc/images/nueve.prepare.2.png)
 
         
 __3. nueve.creat__
@@ -109,13 +109,14 @@ _(thanks to)_
 
 ## TODO
 -----------------------------------------------
+__0.auto bat handle webpack__<br>
 __1.UI__<br>
 __2.doc__<br>
 __3.load different shaders__<br>
 __4.pipeline__<br>
 __5.multistream__<br>
 __6.shaders in sequence__<br>
-__7.some codes was written five years ago in obj-C,need translated to js
+__7.some codes was written five years ago in obj-C,need translated to js,a lot of work
 [multistream](https://github.com/ihgazni/VTUtils.git)
 [voroni](https://github.com/ihgazni/voronoi_modified_GPUImage)
 
