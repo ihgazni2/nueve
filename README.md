@@ -6,6 +6,15 @@
 >__npm install nueve__
 
 
+## Introduce
+----------------
+        //test the shaders performance
+![](/doc/images/nueve.test.1.gif) 
+        //performance
+![](/doc/images/nueve.test.2.png)        
+
+
+
 ## Usage
 -------------------------------------------------------
 
