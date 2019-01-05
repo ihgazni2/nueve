@@ -133,7 +133,7 @@ __5.multistream__<br>
 __6.shaders in sequence__<br>
 __7.some codes was written five years ago in obj-C,need translated to js,a lot of work__<br>
 
-[multistream](https://github.com/ihgazni/VTUtils.git)
+[multistream](https://github.com/ihgazni/VTUtils.git)<br>
 [voroni](https://github.com/ihgazni/voronoi_modified_GPUImage)
 
 -----------------------------------------------
