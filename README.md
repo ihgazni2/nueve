@@ -65,8 +65,7 @@ __4. config firefox__
         //set security.fileuri.strict_origin_policy to false
         //reopen firefox
 
-![](/Images/prepare.0.PNG)
-![](/Images/prepare.1.PNG)
+![](/doc/images/nueve.firfox.0.png)
 
 
 __5. open generated .html using firfox__
