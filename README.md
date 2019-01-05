@@ -131,7 +131,8 @@ __3.load different shaders__<br>
 __4.pipeline__<br>
 __5.multistream__<br>
 __6.shaders in sequence__<br>
-__7.some codes was written five years ago in obj-C,need translated to js,a lot of work
+__7.some codes was written five years ago in obj-C,need translated to js,a lot of work__<br>
+
 [multistream](https://github.com/ihgazni/VTUtils.git)
 [voroni](https://github.com/ihgazni/voronoi_modified_GPUImage)
 
