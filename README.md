@@ -70,9 +70,9 @@ __4. config firefox__
 
 __5. open generated .html using firfox__
 
+![](/doc/images/nueve.open.0.png)
 
-![](/Images/prepare.0.PNG)
-![](/Images/prepare.1.PNG)
+__6. begin test__
 
         
 -------------------------------------------------------
