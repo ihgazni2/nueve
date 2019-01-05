@@ -14,12 +14,13 @@
 
 __1. nueve.config__  
 
-![](/Images/config.0.PNG)
-![](/Images/config.1.PNG)
+![](/doc/images/nueve.config.0.png)
+
 
 __2. nueve.prepare__
         
         nueve.prepare()
+        
         //will creat a dir(named config.name)include three subdirs: 
         //  config.name
         //     -common
@@ -38,6 +39,7 @@ __2. nueve.prepare__
         //(a exzample video "Firefox.mp4" copied from https://github.com/mdn/webgl-examples/tree/gh-pages/tutorial/sample8 already exist)
         //  put your video for test to videos
         //  put your filter-dir to filters
+        
 
 
 ![](/Images/prepare.0.PNG)
