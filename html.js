@@ -127,7 +127,6 @@ function creatEntries(config,replace) {
     } else {
         replaces = [replace]
     }
-    console.log(replaces)
     arr = doReplace(arr,replaces,config)
     let html = arr.join("") 
     html = html.trim()

@@ -7,7 +7,6 @@
         define([], factory);
     else {
         var a = factory();
-        console.log(a)
         for(var i in a) {
             (typeof exports === 'object' ? exports : root)[i] = a[i];
         }
